@@ -2,13 +2,13 @@
     background-color: #a4ce6d;
 }
 
-.search__form {
+.search-form {
     display: flex;
     justify-content: center;
     padding: 25px;
 }
 
-.search__form-input {
+.form-input {
     padding: 10px;
     font-size: 15px;
     border-top-left-radius: 5px;
@@ -36,7 +36,7 @@
     background: #fff542ce;
 }
 
-.search__form::after {
+.search-form::after {
     content: '';
     clear: both;
     display: table;

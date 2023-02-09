@@ -3,7 +3,7 @@ import Notiflix from 'notiflix';
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css'
 
-const input = document.querySelector('.search__form-input');
+const input = document.querySelector('.form-input');
 const btnSearch = document.querySelector('.search__form-button');
 const gallery = document.querySelector('.gallery');
 const btnLoadMore = document.querySelector('.load-more');
