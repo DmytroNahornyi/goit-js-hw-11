@@ -55,10 +55,14 @@
     margin-right: 20px;
 }
 
+// Налаштування для фото
 .photo {
     display: block;
     width: 350px;
     height: 250px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    // border-color: black;
 }
 
 .info {
