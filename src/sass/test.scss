@@ -31,7 +31,7 @@
     border-left: none;
     cursor: pointer;
 }
-
+// колір кнопки
 .search__form-button:hover {
     background: #fff542ce;
 }
@@ -64,7 +64,7 @@
     border-top-right-radius: 15px;
     // border-color: black;
 }
-
+// інфо під фото
 .info {
     display: flex;
     align-items: center;
@@ -93,7 +93,7 @@
 .info-item-api {
     padding-top: 5px;
 }
-
+// кнопка для додавання інфо у пошуку. 
 .load-more {
     display: flex;
     margin: 0px auto 20px;
